@@ -1,0 +1,9 @@
+[submodule "HOD_Mock_Pipeline"]
+	path = HOD_Mock_Pipeline
+	url = https://github.com/rtg142857/HOD_Mock_Pipeline.git
+[submodule "FastHodFitting"]
+	path = FastHodFitting
+	url = https://github.com/rtg142857/FastHodFitting.git
+[submodule "hodpy"]
+	path = hodpy
+	url = https://github.com/rtg142857/hodpy.git
